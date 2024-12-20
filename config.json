@@ -1,0 +1,24 @@
+{
+    "regeln": [
+        {
+            "dateiendungen": [".txt", ".docx", ".odt"],
+            "ordnername": "Dokumente"
+        },
+        {
+            "dateiendungen": [".js", ".py"],
+            "ordnername": "Sprachen"
+        },
+        {
+            "dateiendungen": [".bat"],
+            "ordnername": "windowsBatch"
+        },
+        {
+        "dateiendungen": [".png", ".jpeg", ".jfif"],
+        "ordnername": "Bilder"
+        },
+        {
+        "dateiendungen": [".png", ".jpeg", ".jfif"],
+        "ordnername": "Bilder"
+        }
+    ]
+}
